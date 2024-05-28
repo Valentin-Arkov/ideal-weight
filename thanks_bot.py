@@ -12,7 +12,7 @@ def handle_text(update: Update, context: CallbackContext) -> None:
 # Main function to handle the bot
 def main():
 
-    token = '6319917873:AAEAxsJ1xOHdCw-JGj6CfwSSSdgpBgBgZbQ'
+    token = '...'
     updater = Updater(token, use_context=True)
 
     # Get the dispatcher to register handlers
