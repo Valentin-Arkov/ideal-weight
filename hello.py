@@ -1,4 +1,4 @@
-TOKEN = '7162755689:AAFprDuPUcVsADb6rfkZk9CVhcF4Cw2tGc8'
+TOKEN = '...'
 
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler
