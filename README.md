@@ -10,6 +10,6 @@ insert your Telegram token into the line:
 
 ## Assignment (optional)
 
-1. Based on the code as a template, deploy your model trained on the real-life dataset.
+1. Based on the code as a template, deploy your model trained on the real-life dataset (see LMS).
 
 2. Along with the prediction, print out its uncertainty interval.
