@@ -1,4 +1,5 @@
-# ideal-weight
+# "Ideal Weight": Python Code for Telegram and Streamlit Examples 
+
 "Ideal" weight is calculated as follows:
 
 $Weight (kg) = Height (cm) - 100$
@@ -6,3 +7,9 @@ $Weight (kg) = Height (cm) - 100$
 insert your Telegram token into the line:
 
     token = '...'
+
+## Assignment (optional)
+
+1. Based on the code as a template, deploy your model trained on the real-life dataset.
+
+2. Along with the prediction, print out its uncertainty interval.
