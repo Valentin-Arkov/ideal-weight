@@ -4,7 +4,7 @@
 
 $Weight (kg) = Height (cm) - 100$
 
-insert your Telegram token into the line:
+Copy your Telegram Botfather token and paste it in the line:
 
     token = '...'
 
